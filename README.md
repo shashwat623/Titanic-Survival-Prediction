@@ -1,4 +1,4 @@
-# Titanic_Survival_Prediction
+# Titanic-Survival-Prediction
 A high accuracy Machine Learning project, implementing various models to accurately predict the survival of the on board passengers in Titanic.
 This project is binary classification problem, where the passenger either survived (1) or died (0).
 
